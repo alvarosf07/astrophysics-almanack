@@ -22,12 +22,12 @@ Collection of personal projects related to astrophysics, orbital mechanics, rock
   * [Orbital Mechanics Exercises](/exercises)
 * Utils
   * Orbital Mechanics Functions
-    * [Orbital Elements from Perigee and Apogee](/utils/OEfromZpZa.py)
-    * [State Vector at t from Initial State Vector](/utils/SVfromSV0.py)
-    * [Orbital Mechanics Library](/utils/algorithms_orbital_mechanics.py)
+    * [Orbital Elements from Perigee and Apogee](/utils/orbital-mechanis/OEfromZpZa.py)
+    * [State Vector at t from Initial State Vector](/utils/orbital-mechanis/SVfromSV0.py)
+    * [Orbital Mechanics Library](/utils/orbital-mechanis/orbital_mechanics_algorithms_library.py)
   * Optimization Algorithms
-    * [Optimization Algorithms](/utils/optimization_algorithms.m)
-    * [Optimization - Gradient Method (fixed step)](/utils/optimization_gradient_fixedstep.m)
-    * [Optimization - Gradient Method (optimal step)](/utils/optimization_gradient_optimalstep.m)
-    * [Optimization - Newton Method](/utils/optimization_newton.m)
-    * [Optimization - Newton Method Exp](/utils/optimization_newtonexp.m)
+    * [Optimization Algorithms](/utils/optimization/optimization_algorithms.m)
+    * [Optimization - Gradient Method (fixed step)](/utils/optimization/optimization_gradient_fixedstep.m)
+    * [Optimization - Gradient Method (optimal step)](/utils/optimization/optimization_gradient_optimalstep.m)
+    * [Optimization - Newton Method](/utils/optimization/optimization_newton.m)
+    * [Optimization - Newton Method Exp](/utils/optimization/optimization_newtonexp.m)
