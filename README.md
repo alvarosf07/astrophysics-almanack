@@ -3,6 +3,10 @@ Collection of personal projects related to astrophysics, orbital mechanics, rock
 
 <br/>
 
+<img src="sources/OrbitOptimization.png" width="500">
+
+<br/>
+
 # Content & Structure
 * Physics Equations of Motion
   * [Atmospheric Model (EOM)](/1-Physics-Equations-of-Motion/AtmosphericModel.py)
