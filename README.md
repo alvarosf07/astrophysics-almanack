@@ -24,7 +24,7 @@ Collection of personal projects related to astrophysics, orbital mechanics, rock
   * Orbital Mechanics Functions
     * [Orbital Elements from Perigee and Apogee](/utils/OEfromZpZa.py)
     * [State Vector at t from Initial State Vector](/utils/SVfromSV0.py)
-    * [Orbital Mechanics Library](/algorithms_orbital_mechanics.py)
+    * [Orbital Mechanics Library](/utils/algorithms_orbital_mechanics.py)
   * Optimization Algorithms
     * [Optimization Algorithms](/utils/optimization_algorithms.m)
     * [Optimization - Gradient Method (fixed step)](/utils/optimization_gradient_fixedstep.m)
