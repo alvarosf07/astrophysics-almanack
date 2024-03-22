@@ -1,5 +1,5 @@
 # Astrophysics Almanack
-Library that includes models for dynamics and equations of motion of different physics dynamics, aircraft flight dynamics, rocket equations, and orbital mechanics.
+This library includes dynamic models and equations of motion for different physics problems, aircraft flight dynamics, rocket equations, and orbital mechanics.
 It also includes practical exercises and utils (optimization algorithms and orbital mechanics main solvers and functions).
 
 <br/>
