@@ -1,5 +1,6 @@
 # Astrophysics Almanack
-Collection of personal projects related to astrophysics, orbital mechanics, rocket science...
+Library that includes models for dynamics and equations of motion of different physics dynamics, aircraft flight dynamics, rocket equations, and orbital mechanics.
+It also includes practical exercises and utils (optimization algorithms and orbital mechanics main solvers and functions).
 
 <br/>
 
